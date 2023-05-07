@@ -160,6 +160,8 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Stephen Herbert - [Github](https://github.com/stephenrabbi) 
+ADesoye Ademola - [Github](https://github.com/LilyCrown999) 
+
 
 Second part of Airbnb: Joann Vuong
 ## License
